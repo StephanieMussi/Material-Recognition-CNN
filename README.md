@@ -64,7 +64,7 @@ The splitted data has the hierarchy of:
 ## VGG19 model
 The structure of VGG19 model is shown as below:  
 
-<img src="https://github.com/StephanieMussi/Material_Recognition_CNN/blob/main/Figures/VGG19.png" width="500" height="200">  
+<img src="https://github.com/StephanieMussi/Material_Recognition_CNN/blob/main/Figures/VGG19.png" width="700" height="200">  
 
 As it can be seen, it contains 5 pairs of convolutional layer followed by maxpooling layer of decreasing sizes. After that, the data is flattened and fed into 2 fully connected layer. Lastly there is a Softmax output layer of 1000 nodes.  
 
