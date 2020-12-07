@@ -15,17 +15,17 @@ train_folder = './DS_{}/data/split_{}/train'.format(dataset, split)
 test_folder = './DS_{}/data/split_{}/test'.format(dataset, split) 
 ```
 Using the codes as shown above, the directories of splitted data are:
-*DS_FMD
-  *test
-    *fabric
-    *foliage
-    *...
-    *wood
-  *train
-    *fabric
-    *foliage
-    *...
-    *wood
+* DS_FMD
+  * test
+    * fabric
+    * foliage
+    * ...
+    * wood
+  * train
+    * fabric
+    * foliage
+    * ...
+    * wood
 
 ### MINC-2500
 
